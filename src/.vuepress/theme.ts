@@ -10,9 +10,11 @@ export default hopeTheme({
     url: "mailto:stereo@genomics.cn",
   },
 
+  darkmode: "toggle",
+
   iconAssets: "iconfont",
 
-  logo: "/logo.png",
+  logo: "/logo.svg",
 
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
