@@ -100,20 +100,20 @@ tagline: You can place the description of the project here.
 #     link: https://theme-hope.vuejs.press/guide/feature/
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+footer: For questions and suggestions, please contact&#58 <a href="mailto:stereo@genomics.cn">stereo@genomics.cn</a> | Copyright© All Rights Reserved 2023 BGI Research
 ---
-**STOmics Cloud 使用手册**
+<!-- **STOmics Cloud 使用手册** -->
 
-1\. **时空组学分析平台简介**
+## 1\. **时空组学分析平台简介**
 
-> 1.1 **平台介绍**
+###  1.1 **平台介绍**
 
 时空组学分析云平台（STOmics
 Cloud）是以时空为特色的多组学数据分析平台，可以管理和分析多组学数据。
 STOmics
 Cloud以项目为核心，用户可快速将数据和工具整合到项目，实现分析过程可追溯，结果可复现，知识可分享，项目可协作，形成项目分析体系。并通过一个用户友好的门户，提供灵活易于使用的无代码标准和高级分析，高分辨率可视化分析，以及个性化的分析服务，任何注册登录的用户可以轻松在平台上访问，分析，使用和共享数据和工具。
 
-1.2 **平台名称及地址**
+### 1.2 **平台名称及地址**
 
 平台名称：
 
