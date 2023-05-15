@@ -1,9 +1,7 @@
 ---
 title: 版本更新
 icon: creative
-index: true
-dir:
-  order: 1
+index: false
 ---
 
 ## 目录
