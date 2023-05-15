@@ -1,5 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-// import { enNavbar, zhNavbar } from "./navbar/index.js";
+import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
@@ -16,6 +16,13 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
+  navbarLayout: {
+    start: ["Brand"],
+    // center: [],
+    end: ["Links","Language", "Outlook", "Search"],
+  },
+
+
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "demo/theme-docs/src",
@@ -30,7 +37,7 @@ export default hopeTheme({
   locales: {
     "/": {
       // navbar
-      // navbar: enNavbar,
+      navbar: enNavbar,
 
       // sidebar
       sidebar: enSidebar,
@@ -49,7 +56,7 @@ export default hopeTheme({
      */
     "/zh/": {
       // navbar
-      // navbar: zhNavbar,
+      navbar: zhNavbar,
 
       // sidebar
       sidebar: zhSidebar,
