@@ -121,7 +121,7 @@ Cloud以项目为核心，用户可快速将数据和工具整合到项目，实
 
 英文：STOmics Cloud
 
-平台访问地址：www.stomics.tech/sap
+平台访问地址：[www.stomics.tech/sap](www.stomics.tech/sap)
 
 ### 1.3 **运行环境**
 

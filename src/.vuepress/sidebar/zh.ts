@@ -11,10 +11,18 @@ export const zhSidebar = sidebar({
     //   children: "structure",
     // },
     {
-      text: "文档",
-      icon: "note",
-      prefix: "guide/",
-      children: "structure",
+      text: "版本更新",
+      icon: "creative",
+      prefix: "",
+      link:"update/",
+      collapsible: true,
+      children: [
+        "update/v2.6.1",
+        "update/v2.6.0",
+        "update/v2.5.6",
+        "update/v2.5.5",
+        "update/v2.5.4",
+      ]
     },
     "slides",
   ],

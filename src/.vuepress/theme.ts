@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "韦总",
+    name: "STOmics Cloud",
     url: "mailto:stereo@genomics.cn",
   },
 
