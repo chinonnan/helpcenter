@@ -16,13 +16,7 @@ export const zhSidebar = sidebar({
       prefix: "",
       link:"update/",
       collapsible: true,
-      children: [
-        "update/v2.6.1",
-        "update/v2.6.0",
-        "update/v2.5.6",
-        "update/v2.5.5",
-        "update/v2.5.4",
-      ]
+      children: "structure"
     },
     "slides",
   ],
