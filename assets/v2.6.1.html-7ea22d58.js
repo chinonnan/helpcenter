@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as r,$ as e,a0 as s}from"./framework-2331397e.js";const c={},n=e("h2",{id:"v2-6-1-版本更新公告",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#v2-6-1-版本更新公告","aria-hidden":"true"},"#"),s(),e("strong",null,"v2.6.1 版本更新公告")],-1),o=[n];function _(d,l){return a(),r("div",null,o)}const h=t(c,[["render",_],["__file","v2.6.1.html.vue"]]);export{h as default};
