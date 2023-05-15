@@ -28,7 +28,7 @@ export default hopeTheme({
   docsDir: "demo/theme-docs/src",
 
   themeColor: {
-    purple:"#5f0185",
+    blue:"#2196f3",
     red: "#f26d6d",
     green: "#3eaf7c",
     orange: "#fb9b5f",
